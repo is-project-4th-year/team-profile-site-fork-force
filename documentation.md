@@ -12,6 +12,8 @@ Daisy Chemutai
 How to do a merge conflict
 
 ### Gabriel
+Learned how to stage changes from the VS sidebar as well as issues to do with pull requests.
+Also was a refresher on Git commands innit
 
 ### Sweeeny
 
