@@ -22,4 +22,7 @@ I've learnt how to breakdown a project into different milestones and issues to m
 I've learnt how to make a pull request and to smoothly solve merge conflicts.
 
 ### Daisy
+I've learnt how to make a pull request and merge them with the main branch as well as how to add milestones and issues to effectively manage project tasks and track progress.
+
 \end{document}
+
