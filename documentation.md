@@ -16,6 +16,7 @@ Learned how to stage changes from the VS sidebar as well as issues to do with pu
 Also was a refresher on Git commands innit
 
 ### Sweeeny
+I've learnt how to breakdown a project into different milestones and issues to make for better project management 
 
 ### Natalia
 I've learnt how to make a pull request and to smoothly solve merge conflicts.
