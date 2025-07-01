@@ -9,7 +9,7 @@ Daisy Chemutai
 ## What we have learnt during this GitHub crash course
 
 ### Nicole
-How to do a merge conflict
+How to do a merge conflict locally. yes
 
 ### Gabriel
 Learned how to stage changes from the VS sidebar as well as issues to do with pull requests.
